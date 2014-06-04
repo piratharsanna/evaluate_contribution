@@ -8,3 +8,4 @@ th
 bib
 iocvsdaug
 osdbvigu
+technical
